@@ -1,0 +1,1 @@
+export { default as ShortenerActions } from './ShortenerActions.vue'

@@ -1,0 +1,32 @@
+{
+  "name": "urlshortner-admin",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.0.12",
+    "@tailwindcss/forms": "^0.5.2",
+    "@vueuse/core": "^9.3.0",
+    "axios": "^1.1.2",
+    "chart.js": "^3.9.1",
+    "chartjs-adapter-moment": "^1.0.0",
+    "moment": "^2.29.4",
+    "pinia": "^2.0.23",
+    "prettier": "^2.7.1",
+    "vue": "^3.2.20",
+    "vue-router": "^4.1.2",
+    "vue-toastification": "^2.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "@vue/compiler-sfc": "^3.2.20",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6",
+    "vite": "^3.1.6"
+  }
+}
