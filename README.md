@@ -2,6 +2,11 @@
 
 This project is designed to work on NFS mounted systems, like UTM's lab machines
 
+### Authors
+ - [Ibrahim Fazili](https://github.com/IbrahimFazili)
+ - [Lakshya Gupta](https://github.com/Lakshya2610)
+ - Jayvin Chang
+
 ## **Dependencies**
 
 npm (Node Package Manager)
